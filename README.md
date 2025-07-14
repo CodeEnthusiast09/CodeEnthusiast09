@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend developer looking to collaborate with other developers, working on few projects, currently learning NestJs
+Fullstack developer looking to collaborate with other developers, working on few projects.
 
 
 ## 🌐 Socials:
