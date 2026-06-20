@@ -1,4 +1,3 @@
-# 💫 About Me:
 Full-Stack Developer with 3+ years of experience building scalable web applications across web2 and web3. Specialized in creating production-ready backend services with NestJS, Node.js, and Go, while also crafting interactive frontends with React.js and Next.js. Experienced in RESTful API design, database management (PostgreSQL, MongoDB, MySQL), secure authentication systems, and smart contract development with Solidity.
 
 ## 🌐 Socials:
