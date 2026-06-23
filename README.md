@@ -9,7 +9,7 @@
         👋 Hello world!
       </b>
       <br>
-        Full-Stack Developer with 3+ years of experience building scalable web applications across web2 and web3. Specialized in production-ready backend services with NestJS, Node.js, and Go, and interactive frontends with React.js and Next.js.
+        Full-Stack Developer with 3 years of experience building scalable web applications. Specialized in production-ready backend services with NestJS, Node.js, and Go, and interactive frontends with React.js and Next.js.
       <br>
       <br>
       <b>
