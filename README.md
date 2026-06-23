@@ -30,8 +30,7 @@
           `/++++++++++++++:            │ Shell  : NestJS, Next.js, React Native │
          `/+++ooooooooooooo/`          │ Uptime : 3+ years                      │
         ./ooosssso++osssssso+`         │ CPU    : PostgreSQL, MongoDB, MySQL    │
-       .oossssso-````/ossssss+`        │ GPU    : Solidity, Hardhat, Ethers.js  │
-      -osssssso.      :ssssssso.       │ Locale : Lagos, Nigeria                │
+       .oossssso-````/ossssss+`        │ Locale : Lagos, Nigeria                │
      :osssssss/        osssso+++.      └────────────────────────────────────────┘
     /ossssssss/        +ssssooo/-      
   `/ossssso+/:-        -:/+osssso+-      O   B   R   I   E   N
