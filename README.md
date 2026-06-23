@@ -22,7 +22,7 @@
 ```
                   -`                   
                  .o+`                  
-                `ooo/                  adedapobrien@world
+                `ooo/                             adedapobrien@world
                `+oooo:                 
               `+oooooo:                ┌────────────────────────────────────────┐
               -+oooooo+:               │ OS     : Full-Stack Developer          │
@@ -33,7 +33,7 @@
        .oossssso-````/ossssss+`        │ Locale : Lagos, Nigeria                │
      :osssssss/        osssso+++.      └────────────────────────────────────────┘
     /ossssssss/        +ssssooo/-      
-  `/ossssso+/:-        -:/+osssso+-      O   B   R   I   E   N
+  `/ossssso+/:-        -:/+osssso+-              O   B   R   I   E   N
  `+sso+:-`                 `.-/+oso:   
 `++:.                           `-/+/  
 .`                                 `/  
